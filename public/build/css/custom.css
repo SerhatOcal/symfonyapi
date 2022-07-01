@@ -1,0 +1,26 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].oneOf[1].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[4].oneOf[1].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].oneOf[1].use[3]!./assets/scss/custom.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+body .card-title {
+  color: #000;
+}
+body .product {
+  background-color: #eee;
+}
+body .brand {
+  font-size: 13px;
+}
+body .act-price {
+  color: red;
+  font-weight: 700;
+}
+body span {
+  padding: 2px 9px;
+  display: inline-block;
+  border-radius: 3px;
+}
+body .col-3.mb-3 > a {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3NzL2N1c3RvbS5jc3MiLCJtYXBwaW5ncyI6Ijs7O0FBQ0U7RUFDRTtBQUFKO0FBRUU7RUFDRTtBQUFKO0FBRUU7RUFDRTtBQUFKO0FBRUU7RUFDRTtFQUFVO0FBQ2Q7QUFDRTtFQUNFO0VBQ0E7RUFDQTtBQUNKO0FBQ0U7RUFDRTtBQUNKLEMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9hc3NldHMvc2Nzcy9jdXN0b20uc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyJib2R5IHtcbiAgLmNhcmQtdGl0bGUge1xuICAgIGNvbG9yOiAjMDAwO1xuICB9XG4gIC5wcm9kdWN0e1xuICAgIGJhY2tncm91bmQtY29sb3I6ICNlZWVcbiAgfVxuICAuYnJhbmR7XG4gICAgZm9udC1zaXplOiAxM3B4XG4gIH1cbiAgLmFjdC1wcmljZXtcbiAgICBjb2xvcjpyZWQ7Zm9udC13ZWlnaHQ6IDcwMFxuICB9XG4gIHNwYW57XG4gICAgcGFkZGluZzogMnB4IDlweDtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgYm9yZGVyLXJhZGl1czogM3B4O1xuICB9XG4gIC5jb2wtMy5tYi0zID4gYSB7XG4gICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICB9XG59Il0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/

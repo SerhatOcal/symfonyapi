@@ -1,0 +1,22 @@
+body {
+  .card-title {
+    color: #000;
+  }
+  .product{
+    background-color: #eee
+  }
+  .brand{
+    font-size: 13px
+  }
+  .act-price{
+    color:red;font-weight: 700
+  }
+  span{
+    padding: 2px 9px;
+    display: inline-block;
+    border-radius: 3px;
+  }
+  .col-3.mb-3 > a {
+    text-decoration: none;
+  }
+}
